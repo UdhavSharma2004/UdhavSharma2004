@@ -1,17 +1,10 @@
-### Hi there 👋
-
-
-**UdhavSharma2004/UdhavSharma2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...![IMG_07441 (2)](https://user-images.githubusercontent.com/96074679/201523669-64b26338-3f0e-4a8d-b837-7e7ad25c70ed.jpg)
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+Hello Everyone!!
+Myself Udhav Sharma, Computer Science Sophomore at Giani Zail Singh Campus College of Engineering and Technology.
+I am currently exploring Web Development, and have learned technologies like:-
+   ## - HTML
+   ## - CSS
+   ## - Tailwind CSS
+   ## - JavaScript
+   ## - ReactJs
+   ## - NodeJs
+I am also interested in Open Source Contribution. I would be happy to contribute in Projects.
