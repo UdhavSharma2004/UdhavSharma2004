@@ -1,7 +1,12 @@
 ## Hello Everyone!!
 
-🎓 I’m a Computer Science Sophomore at Giani Zail Singh Campus College of Engineering and Technology. I am currently a Google Developer's Student Club Web Development Co-Lead in my campus.
+* I’m a Computer Science Sophomore at Giani Zail Singh Campus College of Engineering and Technology.
+* I am currently a Google Developer's Student Club Web Development Co-Lead in my campus.
+
+
 ![](https://komarev.com/ghpvc/?username=UdhavSharma2004&label=PROFILE+VIEWS&color=blue&style=plastic)
+
+
  ### About Me 🚀
 * 🌍  I'm from in Bathinda, Punjab
 * 📈  I'm currently a learner
