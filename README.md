@@ -16,6 +16,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UdhavSharma2004&show_icons=true&&count_private=true&include_all_commits=true" />
 I am currently exploring Web Development, and have learned technologies like:-
 
-
-
+<br /><br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UdhavSharma2004&compact=true&show_icons=true)
