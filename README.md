@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](https://udhavsharma2004.github.io/MyPortFolio-React/)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](https://github.com/UdhavSharma2004)
 
 <h1 align="center">Hi 👋, I'm Udhav Sharma</h1>
 <h3 align="center">A passionate MERN stack Web developer from India</h3>
