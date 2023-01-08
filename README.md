@@ -8,7 +8,6 @@
 - 👨‍💻 All of my projects are available at [My PortFolio](https://udhavsharma2004.github.io/MyPortFolio-React/)
 - 🏫I’m a Computer Science Sophomore at Giani Zail Singh Campus College of Engineering and Technology.
 - 🏢I am currently a Google Developer's Student Club Web Development Co-Lead in my campus.
-- ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
