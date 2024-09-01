@@ -16,13 +16,13 @@
 <br/>
 
 <div align="center">
-  <a href="https://udhavsharma2004.github.io/MyPortFolio-React/" target="_blank"><strong>🌐 Explore My Portfolio 🌐</strong></a>
+  <a href="https://udhavsharma.vercel.app/" target="_blank"><strong>🌐 Explore My Portfolio 🌐</strong></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <p>🎓 Pre-Senior in Computer Science at Giani Zail Singh Campus College of Engineering and Technology 🏫</p>
+  <p>🎓 Senior in Computer Science at Giani Zail Singh Campus College of Engineering and Technology 🏫</p>
   <p>🌟 Former Google Developer's Student Club Web Development Co-Lead for 2022-23 🏢</p>
 </div>
 
