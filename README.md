@@ -35,7 +35,7 @@
   <a href="https://stackoverflow.com/users/18617191" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="30"/>
   </a>
-  <a href="https://instagram.com/udhavsharma04" target="_blank">
+  <a href="https://instagram.com/udhavsharma.04" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30"/>
   </a>
 </p>
